@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;  
 }
+body{
+    background-color: rgba(70, 234, 243, 0.268);
+}
 .card{
     width: 350px;
     height: 500px;
